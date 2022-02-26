@@ -1,0 +1,15 @@
+[
+    {
+        "projectURL" : "N/A",
+        "provider" : "Wolters_Bier",
+        "name" : "Appearance Alarm",
+        "description" : "Will fire notification everytime a new player appears in your area",
+        "id" : "appearance-alarm-plugin",
+        "releases" : [
+            {
+                "date" : "2022-02-26",
+                "version" : "1.0.0"
+            }
+        ]
+    }
+]
